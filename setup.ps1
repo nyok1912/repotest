@@ -3,5 +3,5 @@ param (
     [string]$Password
 )
 
-Write-Host "UserName: $UserName"
-Write-Host "Password: $Password"
+Write-Host "_UserName: $UserName"
+Write-Host "_Password: $Password"
